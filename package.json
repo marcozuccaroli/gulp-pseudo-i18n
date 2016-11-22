@@ -1,22 +1,23 @@
 {
-  "name": "gulp-pseudo-i18n",
-  "version": "0.2.1",
-  "description": "Gulp plugin to generate pseudo translation from GNU gettext PO/POT files",
+  "name": "gulp-pseudo-i18n-transiflexready",
+  "version": "0.2.2",
+  "description": "Gulp plugin to generate pseudo translation from GNU gettext PO/POT files ready for transiflex",
   "keywords": [
     "gulpplugin",
     "gettext",
     "pseudo",
-    "i18n"
+    "i18n",
+    "transiflex"
   ],
-  "homepage": "https://github.com/7Pass/gulp-pseudo-i18n.git",
+  "homepage": "https://github.com/marcozuccaroli/gulp-pseudo-i18n.git",
   "repository": {
     "type": "git",
-    "url": "git://github.com/7Pass/gulp-pseudo-i18n.git"
+    "url": "https://github.com/marcozuccaroli/gulp-pseudo-i18n.git"
   },
   "main": "index.js",
   "author": {
-    "name": "Tran Ngoc Van",
-    "url": "https://github.com/7Pass"
+    "name": "Marco Zuccaroli",
+    "url": "https://github.com/marcozuccaroli"
   },
   "license": "MIT",
   "dependencies": {
